@@ -6,7 +6,7 @@ local LogService = game:GetService("LogService")
 local ScriptContext = game:GetService("ScriptContext")
 
 -- // If you're buying yuna then you should prob buy a paid exploit, not just buy only yuna
-local Shitsploits = { "Solara", "Xeno" }
+local Shitsploits = { "Solara", "Wave" }
 
 local GameIDs = {
     ["3150475059"] = "https://api.luarmor.net/files/v3/loaders/db65d5bede4a8652398b0c2d55267627.lua", -- FF2
